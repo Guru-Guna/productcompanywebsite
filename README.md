@@ -132,6 +132,117 @@ Publish the website in the given URL.
         </body>
       </html>
 ``` 
+### People page:
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <titleGT Enthiusiat</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/ourlogo.jpg" type="image/x-icon" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="banner"></div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitem">
+          <a href="/static/Products.html">Products</a>
+        </div>
+        <div class="menuitemselected"><a href="/static/people.html">People</a></div>
+        <div class="menuitem"> <a href="/static/contactus.html">Contact Us</a></div>
+      </div>
+      <div class="content">
+        <div class="productcontent">    
+          <h1>Employees</h1>
+          <div class="productitems">
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/ms1.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">Dhoni MS</div>
+                  <div class="itemname">Chief Executive officer(CEO)</div>
+                  </div>
+                  <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/kL1.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Rahul KL</div>
+                  <div class="itemname">Chief Operating officer(COO)</div>
+                  </div>
+                  <div class="productitem"> 
+                    <div class="itemimage">
+                    <img src="/static/img/ra.jpg"  alt="product image">
+                    </div>
+                    <div class="itemname">Suresh Rain</div>  
+                    <div class="itemname">Chief Financial officer(CFO)</div>
+                  </div>
+                  <div class="productitems">
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="/static/img/sam.jpg" alt="product image">
+                        </div>
+                        <div class="itemname">samantha</div>
+                        <div class="itemname">Chief Techanical officer(CTO)</div>
+                        </div>
+                        <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="/static/img/PRO1.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Paul Andrew</div>
+                        <div class="itemname">chief Legial officer(CLO)</div>
+                        </div>
+                        <div class="productitem"> 
+                            <div class="itemimage">
+                            <img src="/static/img/TOK.jpg"  alt="product image">
+                            </div>
+                            <div class="itemname">Tokyo</div>
+                            <div class="itemname">General Manager(GM)</div>
+                            </div>
+```
+### About us:
+```
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="banner"></div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitem"><a href="/static/products.html">Products</a></div>
+        <div class="menuitem"><a href='/static/people.html'>People</a></div>
+        <div class="menuitemselected">
+            <a href='/static/contactus.html'>Contact Us</a>
+      </div>
+      <div class="content">
+        <div class="productcontent">    
+          <h1>Contact Details</h1>
+          <div class="productitems">
+            <h2>MJ Technologies</h2>
+            <h3> Old Mahabalipuram Rd, Industrial Estate,</h3>
+            <h3>Thiruvanmiyur, Chennai, </h3>
+            <h3>Tamil Nadu-600041</h3>
+          </br>
+            <h3>EMAIL : mjtech73@gmail.com</h3>
+          </br>
+            <h3>NUMBER: +91 9456709987s</h3>
+          </div>
+          </div>        
+      </div>
+      <div class="footer">
+        Copyright &#169; 2021 MJ Technologies, Developed by Gunaseelan G
+      </div>
+    </div>
+  </body>
+</html>
+```
 ## OUTPUT:
 
 ### Home Page:
