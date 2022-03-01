@@ -81,7 +81,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 HARRY POTTER LIMITED., Developed by kishore S
+        Copyright &#169; GT Enthusiasts.., Developed by Gunaseelan G
     </div>
   </body>
 </html>
@@ -121,12 +121,12 @@ Publish the website in the given URL.
                             Pune 411014, Maharashtra, India<br></div>
                             <br>
                             <div class="connum">Mobile: +91 8056080046 </div><br>
-                            <div class="conem">Email: kishoresujith3@gmail.com</div>
+                            <div class="conem">Email: guruguna.guru@gmail.com</div>
                     </div>        
                 </div>
             </div>
         <div class="footer">
-                    Copyright &#169; 2021 HARRY POTTER LIMITED., Developed by kishore s.
+                    Copyright &#169; GT Enthusiast.., Developed by Gunaseelan G.
         </div>
     </div>
         </body>
